@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.treo{
+    padding: 16px;
+    margin-top: 80px;
+    border: 2px solid black;
+    width: 777px;
+}
+.container{
+
+    margin-top: 80px;
+}
